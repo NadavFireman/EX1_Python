@@ -14,7 +14,7 @@ The assignment focuses on implementing and analyzing foundational algorithms and
 ## Repository Content
 
 * **`advanced_programming_hw1.ipynb`**: Full Python solution notebook with code and execution results.
-* **`docs/`**: Original assignment instructions (`assignment_instructions.pdf`).
+* **`docs/`**: Original assignment instructions (`assignment_instructions_1.pdf`).
 
 ***
 *Course: Advanced Programming (Shenkar College, IE&M)*
